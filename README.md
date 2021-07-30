@@ -14,6 +14,7 @@
 <p align="center">
   <a href="#dart-sobre">Sobre</a> &#xa0; | &#xa0; 
   <a href="#white_check_mark-pré-requesitos">Pré requisitos</a> &#xa0; | &#xa0;
+  <a href="#navegando">navegar nos projetos </a> &#xa0; | &#xa0;
   <a href="#checkered_flag-começando">Começando</a> &#xa0; | &#xa0;
   <a href="https://github.com/Gabriel4420" target="_blank">Autor</a>
 </p>
@@ -27,6 +28,15 @@ Projetos Base do HTML5 feitos no curso de desenvolvimento web 2021 - 20 cursos /
 ## :white_check_mark: Pré requisitos ##
 
 Antes de começar :checkered_flag:, você precisa ter o [Git](https://git-scm.com) e o [Node](https://nodejs.org/en/) instalados em sua maquina.
+## :navegando: navegando ##
+
+<p align="center">
+  <a href="https://gabriel4420.github.io/projetosBaseHTML/tabela.html" target="_blank">Tabela</a> &#xa0; | &#xa0; 
+  <a href="https://gabriel4420.github.io/projetosBaseHTML/form.html" target="_blank">Formulario</a> &#xa0; | &#xa0;
+  <a href="https://gabriel4420.github.io/projetosBaseHTML/cadastro.html" target="_blank">Cadastro</a> &#xa0; | &#xa0;
+  <a href="https://gabriel4420.github.io/projetosBaseHTML/caracteresEspeciais.html" target="_blank">Caracteres Especiais</a> &#xa0; | &#xa0;
+  <a href="https://github.com/Gabriel4420" target="_blank">Autor</a>
+</p>
 
 ## :checkered_flag: Começando ##
 
